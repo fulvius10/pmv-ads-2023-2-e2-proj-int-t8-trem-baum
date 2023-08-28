@@ -14,6 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Harttur Luiz Junio D. da Silva
 * Robert Teixeira Ribeiro
 * Carlos Henrique Vilar de Almeida Malta
+* Pedro Henrique Argentino Dias
 
 ## Orientador
 

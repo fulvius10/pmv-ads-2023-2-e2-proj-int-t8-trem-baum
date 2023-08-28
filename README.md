@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# TREM BAUM
 
-`CURSO`
+`CURSO` Analise e desenvolvimento de sistemas
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto: Desenvolvimento de uma Aplicação Interativa
 
-`SEMESTRE`
+`SEMESTRE` Eixo 2
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de um sistema para ajudar a gerenciar os recursos do mercado Trem Baum, estoque de materia prima, entrada e saida de produtos do estoque, registro de preços.
 
 ## Integrantes
 
@@ -19,7 +19,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 

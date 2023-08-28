@@ -68,15 +68,15 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|RE-01|	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 11/12/2022|
-|RE-02|	O aplicativo deve se restringir às tecnologias básicas da Web no back-end|
-|RE-03|	O sistema não deve permitir a utilização para outros fins além de controle de cursos|
-|RE-04| O acesso às aulas e todo conteúdo dos cursos será feito em outro aplicativo específico, desenvolvido na plataforma Moodle|
-|RE-05| Não será permitido o uso da plataforma Heroku| 
+|RE-01|	|
+|RE-02|	|
+|RE-03|	|
+|RE-04| |
+|RE-05| | 
 
 ## Diagrama de Casos de Uso
 
-Dada a elicitação dos requisitos funcionais, utilizamos um modelo gráfico com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos.
+
 
 ![Diagrama de de Casos de Uso](img/DiagramaPUC.png)
 > - [Lucidchart](https://www.lucidchart.com/)

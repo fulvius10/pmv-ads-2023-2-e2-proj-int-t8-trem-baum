@@ -15,6 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Robert Teixeira Ribeiro
 * Carlos Henrique Vilar de Almeida Malta
 * Pedro Henrique Argentino Dias
+* Victor Beltrão Silva
 
 ## Orientador
 

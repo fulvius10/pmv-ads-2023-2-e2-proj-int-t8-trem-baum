@@ -14,6 +14,12 @@
 |**Motivação** | Conseguir melhorar o desempenho das minhas funções no trabalho.
 |**Frustrações** | Pouco tempo para estudar.|
 
+|<img src="" width="150" height="100">   | **Ellon Muska** <br> 43 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Fazendeiro da pecuária de leite.
+|**Motivação** | Entregar um leite de qualidade e com um preço justo.
+|**Frustrações** | A falta de educação digital .|
+
 
 
 ## Histórias de Usuários

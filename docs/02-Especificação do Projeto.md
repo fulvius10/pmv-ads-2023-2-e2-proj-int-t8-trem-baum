@@ -1,7 +1,6 @@
 # Especificações do Projeto
 
-
-
+A fim de definir de maneira minuciosa a especificação do problema e os pontos mais relevantes a serem tratados neste projeto, foram realizadas entrevistas com os funcionarios do Mercado Trem Baum.
 
 ## Personas
 
@@ -17,9 +16,9 @@
 
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/Projeto-Grupo-6/blob/master/docs/img/users/joao%20gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | Aluno, servidor municipal efetivo.
-|**Motivação** | Conseguir melhorar o desempenho das minhas funções no trabalho.
-|**Frustrações** | Pouco tempo para estudar.|
+|**Ocupação** | Gerente de matéria prima dos produtos
+|**Motivação** | Conseguir reduzir de forma efetiva o desperdicio de materia prima, cujo o armazenamento não é tao efetivo, pois diminui a qualidade do produto.
+|**Frustrações** | Desperdicio e consequentemente percas financeiras gerados ao mercado.|
 
 |<img src="" width="150" height="100">   | **Ellon Muska** <br> 43 anos   |
 |:---------------------------------------:|:-------------------------------:|

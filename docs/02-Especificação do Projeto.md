@@ -4,6 +4,13 @@
 
 
 ## Personas
+
+|<img src="" width="150" height="100">   | **Joana Oliveira** <br> 29 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Funcionária do supermercado Trem Baum.
+|**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.
+|**Frustrações** | Dificuldade para mexer no sistema do supermercado.|
+
  
 ### <span style="color:Green">**`João Gomes`**
 

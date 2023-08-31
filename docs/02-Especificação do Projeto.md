@@ -27,7 +27,11 @@
 |**Motivação** | Entregar um leite de qualidade e com um preço justo.
 |**Frustrações** | A falta de educação digital .|
 
-
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/abigailsilva.png" width="150" height="100">   | **Abiagail da silva** <br> 68 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Aposentada e fofoqueira numero 1 do bairro.
+|**Motivação** | varrer a calçada todas as manhas enquanto pego as news fresquisnhas.
+|**Frustrações** | o WhatsApp .|
 
 ## Histórias de Usuários
 

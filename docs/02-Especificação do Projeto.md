@@ -32,6 +32,13 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 |**Motivação** | varrer a calçada todas as manhas enquanto pego as news fresquisnhas.
 |**Frustrações** | o WhatsApp .|
 
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/Rogerio.png" width="150" height="150">   | **Rogério Menezes** <br> 58 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Comerciante de uma cidade do interior.
+|**Aplicativos** | Facebook, WhatsApp, Kwai.
+|**Motivação** | Viajar para a capital em busca de produtos que serão revendidos em sua loja.
+|**Frustrações** | Passar muito tempo indo em variadas lojas em busca de produtos típicos da região. |
+
 ## Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
@@ -39,7 +46,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/DESEJO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |João Gomes (Gerente de matéria prima)|	Receber informações dos recursos necessarios para produção dos produtos artesanais de forma assertiva|	Evitar desperdicios e manter o mercado sempre abastecido.|
-|Rafael Souza (fornecedor de cursos)| Cadastrar os dados da minha empresa, cadastrar o meu portifólio de cursos| Participar dos processos licitatórios e de contratações dos cursos|
+|Rogério Menezes (Consumidor)| Realizar pedidos de maneira eficiente e interativa | Economizar tempo em minha viagem e ver mais lojas.|
 |Maria de Assis Pereira (administradora do sistema)|	Acessar todos os dados dos alunos, acessar todos os dados dos cursos|	Controlar os acessos e permissões dos alunos, montar a grade de programação dos cursos|
 |Joaquim Lara (ponto focal da secretaria/órgão/entidade)| Acessar a grade de programação dos cursos, acessar as informações de todos cursos feitos pelos servidores da minha área de acompanhamento, concentrar os contatos com os servidores em um canal de comunicação específico na plataforma|	Programar a distribuição das vagas aos servidores da minha área de responsabilidade|
 |Rosana Avelar (gestora da escola de governo)|	Acessar um painel de indicadores (de desempenho dashboard) dos alunos e dos cursos realizados|	Gerar relatórios aos superiores hierárquicos e auxilia-los na tomada de decisões|
@@ -53,13 +60,15 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    |Descrição do Requisito| Prioridade |
 |------|----------------------|------------|
-|RF-01|	|ALTA|
-|RF-02|	|MÉDIA|
-|RF-03|	|ALTA|
-|RF-04| |MÉDIA|
-|RF-05|	|ALTA|
-|RF-06| |BAIXA|
-|RF-07| |MÉDIA|
+|RF-01| O supermercado deve permitir o cadastro de clientes e gerentes.	|ALTA|
+|RF-02|	O supermercado deve permitir o login de clientes e gerentes. |ALTA|
+|RF-03|	O supermercado deve apresentar uma lista com seus produtos. |ALTA|
+|RF-04| O supermercado deve permitir que clientes realizem pedidos. |ALTA|
+|RF-05|	O supermercado deve permitir que clientes verifiquem seus pedidos. |MÉDIA|
+|RF-06| O supermercado deve permitir que gerentes verifiquem e atualizem o estoque. |ALTA|
+|RF-07| O supermercado deve permitir a efetuação de pagamentos. |ALTA|
+|RF-08| O supermercado deve permitir que gerentes atualizem clientes de seus pedidos.  |MÉDIA|
+|RF-09| O supermercado deve permitir que gerentes verifiquem todos os pedidos. |BAIXA|
 
 
 ### Requisitos não Funcionais

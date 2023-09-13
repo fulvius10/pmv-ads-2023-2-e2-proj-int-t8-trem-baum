@@ -4,7 +4,7 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 
 ## Personas
 
-|<img src="https://unsplash.com/pt-br/fotografias/d3nKNw1ILdM" width="150" height="100">   | **Joana Oliveira** <br> 29 anos   |
+|<img src="https://unsplash.com/d3nKNw1ILdM" width="150" height="100">   | **Joana Oliveira** <br> 29 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Funcionária do supermercado Trem Baum.
 |**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.

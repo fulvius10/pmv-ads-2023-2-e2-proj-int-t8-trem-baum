@@ -101,9 +101,4 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 
 ## Diagrama de Casos de Uso
 
-
-
-![Diagrama de de Casos de Uso](img/DiagramaPUC.png)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![Caso de Uso - TremBaum](img/CasoUso.png)

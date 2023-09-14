@@ -100,4 +100,4 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |RE-05| Não será permitido o uso da plataforma Heroku| 
 
 ## Diagrama de Casos de Uso
-<img src="docs/img/Diagrama de Casos de Uso - Mercado Trem Baum.png">
+![Diagrama de de Casos de Uso](docs/img/Diagrama.png)

@@ -14,7 +14,8 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 ### <span style="color:Green">**`João Gomes`**
 
 
-|<img src="docs/img/joao gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
+|![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/assets/103541503/8642e4f4-51a2-435b-8f49-44382b88ce8e)
+   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Gerente de matéria prima dos produtos
 |**Motivação** | Conseguir reduzir de forma efetiva o desperdicio de materia prima, cujo o armazenamento não é tao efetivo, pois diminui a qualidade do produto.

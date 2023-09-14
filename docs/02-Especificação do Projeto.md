@@ -95,9 +95,6 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |--|-------------------------------------------------------|
 |RE-01|	O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 06/12/2022|
 |RE-02|	O aplicativo deve se restringir às tecnologias básicas da Web no back-end|
-|RE-03|	O sistema não deve permitir a utilização para outros fins além de controle de cursos|
-|RE-04| O acesso às aulas e todo conteúdo dos cursos será feito em outro aplicativo específico, desenvolvido na plataforma Moodle|
-|RE-05| Não será permitido o uso da plataforma Heroku| 
 
 ## Diagrama de Casos de Uso
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/assets/103541503/82de4322-ecaa-4645-9f32-045b1965e042)

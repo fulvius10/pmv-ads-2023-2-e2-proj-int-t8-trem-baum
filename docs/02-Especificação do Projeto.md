@@ -100,4 +100,5 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |RE-05| Não será permitido o uso da plataforma Heroku| 
 
 ## Diagrama de Casos de Uso
-![Diagrama de de Casos de Uso](img/Diagrama.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/assets/103541503/82de4322-ecaa-4645-9f32-045b1965e042)
+

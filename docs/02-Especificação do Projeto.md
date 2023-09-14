@@ -4,28 +4,17 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 
 ## Personas
 
-### <span style="color:Green">**`Joana Oliveira`**
-
-
 |<img src="https://unsplash.com/d3nKNw1ILdM" width="150" height="100">   | **Joana Oliveira** <br> 29 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Funcionária do supermercado Trem Baum.
 |**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.
 |**Frustrações** | Dificuldade para mexer no sistema do supermercado.|
 
-
-### <span style="color:Green">**`João Gomes`**
-
-
 |<img src="docs/img/joao gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Gerente de matéria prima dos produtos
 |**Motivação** | Conseguir reduzir de forma efetiva o desperdicio de materia prima, cujo o armazenamento não é tao efetivo, pois diminui a qualidade do produto.
 |**Frustrações** | Desperdicio e consequentemente percas financeiras gerados ao mercado.|
-
-
-### <span style="color:Green">**`Ellon Muska`**
-
 
 |<img src="" width="150" height="100">   | **Ellon Muska** <br> 43 anos   |
 |:---------------------------------------:|:-------------------------------:|

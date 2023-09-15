@@ -18,9 +18,9 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 
 |<img src="" width="150" height="100">   | **Ellon Muska** <br> 43 anos   |
 |:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | Fazendeiro da pecuária de leite.
-|**Motivação** | Entregar um leite de qualidade e com um preço justo.
-|**Frustrações** | A falta de educação digital .|
+|**Ocupação** | Atendente de lojinha de iguarias mineiras
+|**Motivação** | Organizar a loja e ver os clientes satisfeito.
+|**Frustrações** | Perder vendas por não ter uma plataforma digital da lojinha .|
 
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/abigailsilva.png" width="150" height="100">   | **Abiagail da silva** <br> 68 anos   |
 |:---------------------------------------:|:-------------------------------:|

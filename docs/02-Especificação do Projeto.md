@@ -10,6 +10,12 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 |**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.
 |**Frustrações** | Dificuldade para mexer no sistema do supermercado.|
 
+| **Sheila Furacão** <br> 59 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Forncedora do supermercado Trem Baum.
+|**Motivação** | Conseguir entregar mais produtos mais rápido a mesa do consumidor. 
+|**Frustrações** | Para atender às necessidades de Sheila, o site de mercado local deve oferecer uma variedade de produtos mineiros,de alta qualidade e a preços competitivos.O site também deve facilitar a compra online, com um processo de checkout simples e seguro.|
+
 |<img src="docs/img/joao gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Gerente de matéria prima dos produtos

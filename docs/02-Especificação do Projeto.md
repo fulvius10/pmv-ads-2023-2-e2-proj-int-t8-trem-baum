@@ -24,9 +24,9 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/abigailsilva.png" width="150" height="100">   | **Abiagail da silva** <br> 68 anos   |
 |:---------------------------------------:|:-------------------------------:|
-|**Ocupação** | Aposentada e fofoqueira numero 1 do bairro.
-|**Motivação** | varrer a calçada todas as manhas enquanto pego as news fresquisnhas.
-|**Frustrações** | o WhatsApp .|
+|**Ocupação** | Aposentada e chefe de familia.
+|**Motivação** | COnseguir por meio de ferramentas agieis facilitar suas atividades diarias, podendo com ela melhor desempenhar suas funções.
+|**Frustrações** | A complexidade da tecnologia, visto sua dificuldade com o mundo digital.|
 
 |<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/Rogerio.png" width="150" height="150">   | **Rogério Menezes** <br> 58 anos   |
 |:---------------------------------------:|:-------------------------------:|

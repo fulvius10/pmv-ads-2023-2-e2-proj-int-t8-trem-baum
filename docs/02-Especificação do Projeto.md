@@ -10,7 +10,7 @@ A fim de definir de maneira minuciosa a especificação do problema e os pontos 
 |**Motivação** | Conseguir desempenhar suas funções de maneira mais fácil.
 |**Frustrações** | Dificuldade para mexer no sistema do supermercado.|
 
-|<img src="docs/img/joao gomes.png" width="150" height="100">   | **João Gomes** <br> 41 anos   |
+|<img src="[docs/img/joao gomes.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-trem-baum/blob/main/docs/img/joao%20gomes.png)" width="150" height="100">   | **João Gomes** <br> 41 anos   |
 |:---------------------------------------:|:-------------------------------:|
 |**Ocupação** | Gerente de matéria prima dos produtos
 |**Motivação** | Conseguir reduzir de forma efetiva o desperdicio de materia prima, cujo o armazenamento não é tao efetivo, pois diminui a qualidade do produto.

@@ -43,7 +43,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |João Gomes (Gerente de matéria prima)|	Receber informações dos recursos necessarios para produção dos produtos artesanais de forma assertiva|	Evitar desperdicios e manter o mercado sempre abastecido.|
 |Rogério Menezes (Consumidor)| Realizar pedidos de maneira eficiente e interativa | Economizar tempo em minha viagem e ver mais lojas.|
-|Maria de Assis Pereira (administradora do sistema)|	Acessar todos os dados dos alunos, acessar todos os dados dos cursos|	Controlar os acessos e permissões dos alunos, montar a grade de programação dos cursos|
+|Joana Oliveira (Funcionária do TremBaum)|	Trabalhar de forma mais precisa e eficiente|	Entender melhor o sistema, realizar cada função de forma intuitiva|
 |Joaquim Lara (ponto focal da secretaria/órgão/entidade)| Acessar a grade de programação dos cursos, acessar as informações de todos cursos feitos pelos servidores da minha área de acompanhamento, concentrar os contatos com os servidores em um canal de comunicação específico na plataforma|	Programar a distribuição das vagas aos servidores da minha área de responsabilidade|
 |Rosana Avelar (gestora da escola de governo)|	Acessar um painel de indicadores (de desempenho dashboard) dos alunos e dos cursos realizados|	Gerar relatórios aos superiores hierárquicos e auxilia-los na tomada de decisões|
 |Abiagail da silva (Chefe de familia)|	faciliadad em compras e agilidade no processo| Para ter mais tempo para desempenhar suas atividades|

@@ -44,7 +44,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |João Gomes (Gerente de matéria prima)|	Receber informações dos recursos necessarios para produção dos produtos artesanais de forma assertiva|	Evitar desperdicios e manter o mercado sempre abastecido.|
 |Rogério Menezes (Consumidor)| Realizar pedidos de maneira eficiente e interativa | Economizar tempo em minha viagem e ver mais lojas.|
 |Joana Oliveira (Funcionária do TremBaum)|	Trabalhar de forma mais precisa e eficiente|	Entender melhor o sistema, realizar cada função de forma intuitiva|
-|Ellon Muska (Atendente da lojinha)| Um site da sua lojinha| Para clientes de longe também conseguirem comprar.|
+|Ellon Muska (Atendente da lojinha)| Controle de estoque da loja fisica e do site | Para ter um controle fácil e rápido do estoque.|
 |Rosana Avelar (gestora da escola de governo)|	Acessar um painel de indicadores (de desempenho dashboard) dos alunos e dos cursos realizados|	Gerar relatórios aos superiores hierárquicos e auxilia-los na tomada de decisões|
 |Abiagail da silva (Chefe de familia)|	faciliadad em compras e agilidade no processo| Para ter mais tempo para desempenhar suas atividades|
 ## Requisitos
